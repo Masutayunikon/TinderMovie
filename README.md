@@ -93,6 +93,8 @@ Before proceeding, ensure that you have Docker installed on your system. You can
     - Use the SPARQL query interface to write and execute queries against the "movies" dataset.
     - Explore the RDF data and retrieve information about movies, genres, actors, and more.
 
+## if you use another port change the url in the nuxt.config.js file
+
 #### Additional Information
 
 - **Dataset Maintenance:**
