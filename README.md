@@ -118,6 +118,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 Make sure to install the dependencies:
 
+ps: I prefer the usage of pnpm, but you can use npm or yarn as well.
+
 ```bash
 # npm
 npm install
