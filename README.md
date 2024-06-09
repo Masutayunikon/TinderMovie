@@ -28,7 +28,7 @@ In the Python script provided (`main.py`) inside the script folder, you can adju
 
 1. **Run the Script:**
    ```bash
-   python tinder_movies.py
+   python main.py
    ```
    This script populates the ontology with movie data fetched from The Movie Database (TMDb) API and saves the ontology to a file named `movies.owl`.
 
